@@ -32,6 +32,5 @@ public class EmpWageBuilderMultiCompany
         public static void main(String[] args)
         {
         computeEmpWage("DMart",20,2,10);
-         computeEmpWage("Reliance",10,4,20);
         }
 }
