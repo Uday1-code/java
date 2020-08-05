@@ -34,3 +34,6 @@ public class EmpWageBuilderMultiCompany
         computeEmpWage("DMart",20,2,10);
         }
 }
+
+
+
